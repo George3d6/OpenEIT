@@ -73,6 +73,8 @@ The dashboard should now be open and running and look like this:
 
 The dashboard can connect to the SPECTRA device via Bluetooth or Serial connection, do tomographic reconstructions in real-time, or by reading in offline data. You can also record data for later analysis. We suggest you have a look in the tutorials to try time series, bioimpedance spectroscopy and electrical impedance tomography functionality. [Tutorials](https://openeitgithubio.readthedocs.io/en/latest/)
 
+*If your device fails to connect try running app.py as root or modify access permissions on the port.*
+
 <p align="center">
 	<img src="images/eit32.jpeg" height="300">
 </p>
